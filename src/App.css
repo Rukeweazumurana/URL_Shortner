@@ -9,7 +9,6 @@ main {
 /* First Section */
 /* Header */
 #header {
-  position: fixed;
   top: 0;
 }
 header {
